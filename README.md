@@ -1,3 +1,3 @@
 ##  📖 Portfolio 
 
- My personal portfolio website built using React and three js
+ My personal portfolio website built using JavaScript, CSS and HTML.
